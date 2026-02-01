@@ -1,0 +1,9 @@
+---
+title: "JSC370_Assignment_1"
+format:
+  html:
+    embed-resources: true
+jupyter: python3
+---
+
+### 1. Read in the data
